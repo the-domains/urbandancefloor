@@ -1,0 +1,28 @@
+name: urbandancefloor
+favicon: null
+layout_spectrum: 0.06970808934420347
+typography_spectrum: 0.7301339637488127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7407831070013344
+  lightness: 0.26513881026767194
+  saturation: 0.049817997962236404
+  rhythmicContrast: 0.15499374899081886
+purpose: []
